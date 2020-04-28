@@ -1,1 +1,1 @@
-# linear-rolling-regression
+# linear rolling window regression
